@@ -11,3 +11,48 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.material-icons.md-48 { font-size: 48px; }
+.head{font-family: 'Noto Sans', sans-serif;}
+
+table.highlight>tbody>tr:hover {
+  z-index: 4;
+  background-color: lightgrey!important;
+  font-size: larger;
+  font-weight: bolder ;
+}
+small{
+  /*position: relative;*/
+  /*left: -15px;*/
+  /*bottom: -3px;*/
+  text-align: left!important;
+  z-index: 2;
+  float: left;
+
+}
+/*table{font-family: 'Noto Sans', sans-serif;}*/
+table{font-family: "Arial"}
+td{
+  border: 2px;
+  border-style: solid;
+  border-color: white;
+  /*display: block;*/
+
+
+
+
+}
+
+.arrows{
+  position: relative;
+  left: 8px;
+  bottom: -8px;
+  z-index: 2;
+  float: left;
+  float: left;
+
+}
+
+.stname{
+  text-align: center;
+
+}
